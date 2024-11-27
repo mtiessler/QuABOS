@@ -1,5 +1,5 @@
-# QuABOS
-Quantitative Analyst Broker Open Source
+# QuABRO
+Quantitative Analyst Broker, accessible and easy to use
 
 ## License
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
