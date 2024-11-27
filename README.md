@@ -30,3 +30,38 @@ This repository is an **open-source frontend application** for a Quantitative An
 - **Node.js** (for frontend development)
 - **C++ Compiler** (e.g., GCC or Clang)
 - **API Key** for market data provider (e.g., Alpha Vantage, Yahoo Finance, etc.)
+---
+
+## Supported Brokers
+
+- **Interactive Brokers**
+- **Alpaca**
+- **Tradier**
+- **TradeStation**
+- **Tradovate**
+- **Coinbase**
+- **Robinhood** *(via third-party services)*
+- **E*TRADE**
+- **Bybit**
+- **Kraken**
+- **Binance**
+- **NinjaTrader**
+
+---
+
+## Roadmap
+
+- [ ] Implement C++ integration for backend algorithms.
+- [ ] Create an interactive frontend dashboard.
+- [ ] Support live market data integration.
+- [ ] Add support for additional trading algorithms.
+- [ ] Implement machine learning model integration.
+- [ ] Expand broker support with new APIs.
+- [ ] Add a simulation/testing environment for strategies.
+- [ ] Optimize for mobile devices.
+
+---
+
+## Acknowledgements
+
+
