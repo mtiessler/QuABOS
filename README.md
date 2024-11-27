@@ -1,4 +1,4 @@
-# Quabos
+# QuABOS
 Quantitative Analyst Broker Open Source
 
 ## License
